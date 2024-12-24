@@ -1,0 +1,236 @@
+[cubase parse file]
+
+[parser version 0001]
+
+
+
+[creators first name]Dmitry
+
+[creators last name]Shtatnov
+
+[device manufacturer]YAMAHA
+
+[device name]Rev5
+
+[script name]Yamaha Rev5
+
+[script version]version 1.00
+
+
+
+[define patchnames]
+
+
+
+[g1]		Preset
+
+[p2, 0, 0, -1]	Large Hall
+
+[p2, 1, 0, -1]	Small Hall
+
+[p2, 2, 0, -1]	Vocal Plate
+
+[p2, 3, 0, -1]	Percussion Plate
+
+[p2, 4, 0, -1]	Early Ref.1
+
+[p2, 5, 0, -1]	Early Ref.2
+
+[p2, 6, 0, -1]	Delay L,R
+
+[p2, 7, 0, -1]	Stereo Echo
+
+[p2, 8, 0, -1]	Stereo Flange
+
+[p2, 9, 0, -1]	Reverb Flange
+
+[p2, 10, 0, -1]	Chorus A
+
+[p2, 11, 0, -1]	Chorus B
+
+[p2, 12, 0, -1]	Stereo Phasing
+
+[p2, 13, 0, -1]	Tremolo
+
+[p2, 14, 0, -1]	Symphonic
+
+[p2, 15, 0, -1]	Spring
+
+[p2, 16, 0, -1]	Echo Room
+
+[p2, 17, 0, -1]	Strings
+
+[p2, 18, 0, -1]	Electric Bass A
+
+[p2, 19, 0, -1]	Electric Bass B
+
+[p2, 20, 0, -1]	Kick
+
+[p2, 21, 0, -1]	Snare
+
+[p2, 22, 0, -1]	Reverb & Gate
+
+[p2, 23, 0, -1]	Reverse Gate
+
+[p2, 24, 0, -1]	Rehearsal Room
+
+[p2, 25, 0, -1]	Pitch Change A
+
+[p2, 26, 0, -1]	Pitch Change B
+
+[p2, 27, 0, -1]	Pitch CHange C
+
+[p2, 28, 0, -1]	Pan
+
+[p2, 29, 0, -1]	Live Reference
+
+
+
+[g1]		User
+
+[p2, 30, 0, -1]	[Program 31]
+
+[p2, 31, 0, -1]	[Program 32]
+
+[p2, 32, 0, -1]	[Program 33]
+
+[p2, 33, 0, -1]	[Program 34]
+
+[p2, 34, 0, -1]	[Program 35]
+
+[p2, 35, 0, -1]	[Program 36]
+
+[p2, 36, 0, -1]	[Program 37]
+
+[p2, 37, 0, -1]	[Program 38]
+
+[p2, 38, 0, -1]	[Program 39]
+
+[p2, 39, 0, -1]	[Program 40]
+
+[p2, 40, 0, -1]	[Program 41]
+
+[p2, 41, 0, -1]	[Program 42]
+
+[p2, 42, 0, -1]	[Program 43]
+
+[p2, 43, 0, -1]	[Program 44]
+
+[p2, 44, 0, -1]	[Program 45]
+
+[p2, 45, 0, -1]	[Program 46]
+
+[p2, 46, 0, -1]	[Program 47]
+
+[p2, 47, 0, -1]	[Program 48]
+
+[p2, 48, 0, -1]	[Program 49]
+
+[p2, 49, 0, -1]	[Program 50]
+
+[p2, 50, 0, -1]	[Program 51]
+
+[p2, 51, 0, -1]	[Program 52]
+
+[p2, 52, 0, -1]	[Program 53]
+
+[p2, 53, 0, -1]	[Program 54]
+
+[p2, 54, 0, -1]	[Program 55]
+
+[p2, 55, 0, -1]	[Program 56]
+
+[p2, 56, 0, -1]	[Program 57]
+
+[p2, 57, 0, -1]	[Program 58]
+
+[p2, 58, 0, -1]	[Program 59]
+
+[p2, 59, 0, -1]	[Program 60]
+
+[p2, 60, 0, -1]	[Program 61]
+
+[p2, 61, 0, -1]	[Program 62]
+
+[p2, 62, 0, -1]	[Program 63]
+
+[p2, 63, 0, -1]	[Program 64]
+
+[p2, 64, 0, -1]	[Program 65]
+
+[p2, 65, 0, -1]	[Program 66]
+
+[p2, 66, 0, -1]	[Program 67]
+
+[p2, 67, 0, -1]	[Program 68]
+
+[p2, 68, 0, -1]	[Program 69]
+
+[p2, 69, 0, -1]	[Program 70]
+
+[p2, 70, 0, -1]	[Program 71]
+
+[p2, 71, 0, -1]	[Program 72]
+
+[p2, 72, 0, -1]	[Program 73]
+
+[p2, 73, 0, -1]	[Program 74]
+
+[p2, 74, 0, -1]	[Program 75]
+
+[p2, 75, 0, -1]	[Program 76]
+
+[p2, 76, 0, -1]	[Program 77]
+
+[p2, 77, 0, -1]	[Program 78]
+
+[p2, 78, 0, -1]	[Program 79]
+
+[p2, 79, 0, -1]	[Program 80]
+
+[p2, 80, 0, -1]	[Program 81]
+
+[p2, 81, 0, -1]	[Program 82]
+
+[p2, 82, 0, -1]	[Program 83]
+
+[p2, 83, 0, -1]	[Program 84]
+
+[p2, 84, 0, -1]	[Program 85]
+
+[p2, 85, 0, -1]	[Program 86]
+
+[p2, 86, 0, -1]	[Program 87]
+
+[p2, 87, 0, -1]	[Program 88]
+
+[p2, 88, 0, -1]	[Program 89]
+
+[p2, 89, 0, -1]	[Program 90]
+
+
+
+[g1]		Gated Preset
+
+[p2, 90, 0, -1]	Echo/Reverb/Gate
+
+[p2, 91, 0, -1]	Chorus/Reverb/Gate
+
+[p2, 92, 0, -1]	Symphonic/Reverb/Gate
+
+[p2, 93, 0, -1]	Pitch Change A/Reverb/Gate
+
+[p2, 94, 0, -1]	Reverb/Symphonic/Gate
+
+[p2, 95, 0, -1]	Reverb/Pan/Gate
+
+[p2, 96, 0, -1]	Reverb/Pitch CHange C/Gate
+
+[p2, 97, 0, -1]	Parallel ER and Reverb/Gate
+
+[p2, 98, 0, -1]	Plate + Hall/Gate
+
+
+
+[end]
+

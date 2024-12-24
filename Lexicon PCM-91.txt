@@ -1,0 +1,708 @@
+[cubase parse file]
+
+[parser version 0001]
+
+
+
+[creators first name]Dmitry
+
+[creators last name]Shtatnov
+
+[device manufacturer]LEXICON
+
+[device name]PCM-91
+
+[script name]Lexicon PCM-91
+
+[script version]version 1.00
+
+
+
+[define patchnames]
+
+
+
+[g1]		Program Bank P0: Halls
+		
+[g2]		Orchestral
+[p3, 0, 0]	0.0 Deep Blue
+[p3, 1, 0]	0.1 Large Hall
+[p3, 2, 0]	0.2 Medium Hall
+[p3, 3, 0]	0.3 Small Hall
+[p3, 4, 0]	0.4 L Hall+Stage
+[p3, 5, 0]	0.5 M Hall+Stage
+[p3, 6, 0]	0.6 S Hall+Stage
+[p3, 7, 0]	0.7 Gothic Hall
+[p3, 8, 0]	0.8 Concert Hall
+[p3, 9, 0]	0.9 Small Church
+		
+[g2]		Vocal
+[p3, 10, 0]	1.0 Choir Hall
+[p3, 11, 0]	1.1 Vocal Hall
+[p3, 12, 0]	1.2 Vocal Hall2
+[p3, 13, 0]	1.3 VocalConcert
+[p3, 14, 0]	1.4 Rise’n Hall
+[p3, 15, 0]	1.5 Good Ol’Verb
+[p3, 16, 0]	1.6 Deep Verb
+[p3, 17, 0]	1.7 Vocal Magic
+[p3, 18, 0]	1.8 Wide Vox
+[p3, 19, 0]	1.9 Slap Hall
+		
+[g2]		Live Sound
+[p3, 20, 0]	2.0 Live Arena
+[p3, 21, 0]	2.1 Real Hall
+[p3, 22, 0]	2.2 Great Hall
+[p3, 23, 0]	2.3 Brick Wallz
+[p3, 24, 0]	2.4 Cannon Gate
+[p3, 25, 0]	2.5 Spatial Hall
+[p3, 26, 0]	2.6 Nonlin Wrhse
+[p3, 27, 0]	2.7 Sizzle Hall
+[p3, 28, 0]	2.8 Bright Hall
+[p3, 29, 0]	2.9 Utility Hall
+		
+[g2]		Instrument
+[p3, 30, 0]	3.0 Horns Hall
+[p3, 31, 0]	3.1 Snare Gate
+[p3, 32, 0]	3.2 Guitar Cave
+[p3, 33, 0]	3.3 Drum Cave
+[p3, 34, 0]	3.4 Saxy Hangar
+[p3, 35, 0]	3.5 Gated Hall
+[p3, 36, 0]	3.6 For The Toms
+[p3, 37, 0]	3.7 Synth Hall
+[p3, 38, 0]	3.8 ShortReverse
+[p3, 39, 0]	3.9 GtrBalladBPM
+		
+[g2]		Custom
+[p3, 40, 0]	4.0 Tidal Hall
+[p3, 41, 0]	4.1 Dream Hall
+[p3, 42, 0]	4.2 PumpVerb
+[p3, 43, 0]	4.3 PanHallBPM
+[p3, 44, 0]	4.4 Utility Verb
+[p3, 45, 0]	4.5 Museum Hall
+[p3, 46, 0]	4.6 Nonlinear#1
+[p3, 47, 0]	4.7 Tap BrickBPM
+[p3, 48, 0]	4.8 Gen. Concert
+[p3, 49, 0]	4.9 Gen. RHall
+		
+[g1]		Program Bank P1: Rooms
+		
+[g2]		Instrument
+[p3, 0, 1]	0.0 Large Room
+[p3, 1, 1]	0.1 Medium Room
+[p3, 2, 1]	0.2 Small Room
+[p3, 3, 1]	0.3 Guitar Room
+[p3, 4, 1]	0.4 Organ Room
+[p3, 5, 1]	0.5 LargeChamber
+[p3, 6, 1]	0.6 SmallChamber
+[p3, 7, 1]	0.7 SpinningRoom
+[p3, 8, 1]	0.8 Wide Chamber
+[p3, 9, 1]	0.9 Tiled Room
+		
+[g2]		Vocal
+[p3, 10, 1]	1.0 Brite Vocal
+[p3, 11, 1]	1.1 Vocal Space
+[p3, 12, 1]	1.2 Vocal Amb
+[p3, 13, 1]	1.3 VerySmallAmb
+[p3, 14, 1]	1.4 S VocalSpace
+[p3, 15, 1]	1.5 L VocalSpace
+[p3, 16, 1]	1.6 S Vocal Amb
+[p3, 17, 1]	1.7 L Vocal Amb
+[p3, 18, 1]	1.8 AmbientSus
+[p3, 19, 1]	1.9 Vocal Booth
+		
+[g2]		Live Sound
+[p3, 20, 1]	2.0 LargeSpace
+[p3, 21, 1]	2.1 Med. Space
+[p3, 22, 1]	2.2 Delay Space
+[p3, 23, 1]	2.3 BigBoom Room
+[p3, 24, 1]	2.4 Tight Space
+[p3, 25, 1]	2.5 Reflect Room
+[p3, 26, 1]	2.6 RockRoom
+[p3, 27, 1]	2.7 Real Room
+[p3, 28, 1]	2.8 Spatial Bass
+[p3, 29, 1]	2.9 Great Room
+		
+[g2]		Drums&Perc
+[p3, 30, 1]	3.0 Drum Room
+[p3, 31, 1]	3.1 Snare Trash
+[p3, 32, 1]	3.2 MetallicRoom
+[p3, 33, 1]	3.3 Slap Place
+[p3, 34, 1]	3.4 PercussPlace
+[p3, 35, 1]	3.5 PercussRoom
+[p3, 36, 1]	3.6 Room 4 Drums
+[p3, 37, 1]	3.7 Sloppy Place
+[p3, 38, 1]	3.8 WideSlapDrum
+[p3, 39, 1]	3.9 InverseDrums
+		
+[g2]		Custom
+[p3, 40, 1]	4.0 PCM 60 Room
+[p3, 41, 1]	4.1 InverseRoom2
+[p3, 42, 1]	4.2 BeeBeeSlapz
+[p3, 43, 1]	4.3 Storeroom
+[p3, 44, 1]	4.4 Split Rooms
+[p3, 45, 1]	4.5 Spatial Room
+[p3, 46, 1]	4.6 Hole Room
+[p3, 47, 1]	4.7 Storage Tank
+[p3, 48, 1]	4.8 StrangePlace
+[p3, 49, 1]	4.9 Gen. Ambi
+		
+[g1]		Program Bank P2: Plates
+		
+[g2]		Instrument
+[p3, 0, 2]	0.0 Just Plate
+[p3, 1, 2]	0.1 Rich Plate
+[p3, 2, 2]	0.2 Gold Plate:
+[p3, 3, 2]	0.3 Plate4Brass
+[p3, 4, 2]	0.4 Rock Plate
+[p3, 5, 2]	0.5 Eko Plate
+[p3, 6, 2]	0.6 A.Gtr Plate
+[p3, 7, 2]	0.7 SynthLdBPM
+[p3, 8, 2]	0.8 Floyd Wash
+[p3, 9, 2]	0.9 GtrPlateBPM
+		
+[g2]		Vocal
+[p3, 10, 2]	1.0 Vocal Plate
+[p3, 11, 2]	1.1 Vocal Plate2
+[p3, 12, 2]	1.2 SmVoxPlate
+[p3, 13, 2]	1.3 VoclEkoPlate
+[p3, 14, 2]	1.4 Choir Plate
+[p3, 15, 2]	1.5 Multi Vox
+[p3, 16, 2]	1.6 Bright Vox
+[p3, 17, 2]	1.7 VoclEcho BPM
+[p3, 18, 2]	1.8 VocalTapBPM
+[p3, 19, 2]	1.9 VocalTapBPM2
+		
+[g2]		Live Sound
+[p3, 20, 2]	2.0 Live Plate
+[p3, 21, 2]	2.1 Clean Plate
+[p3, 22, 2]	2.2 Live Gate
+[p3, 23, 2]	2.3 Bright Plate
+[p3, 24, 2]	2.4 Hot Plate
+[p3, 25, 2]	2.5 Ever Plate
+[p3, 26, 2]	2.6 Warm Plate
+[p3, 27, 2]	2.7 Live Drums
+[p3, 28, 2]	2.8 Great Plate
+[p3, 29, 2]	2.9 PlateDlyBPM
+		
+[g2]		Drums&Perc
+[p3, 30, 2]	3.0 Big Drums
+[p3, 31, 2]	3.1 Drum Plate
+[p3, 32, 2]	3.2 Fat Drums
+[p3, 33, 2]	3.3 Cool Plate
+[p3, 34, 2]	3.4 Tight Plate
+[p3, 35, 2]	3.5 Short Plate
+[p3, 36, 2]	3.6 Dark Plate
+[p3, 37, 2]	3.7 Plate Gate
+[p3, 38, 2]	3.8 Plate Gate 2
+[p3, 39, 2]	3.9 Bongo Plate
+		
+[g2]		Custom
+[p3, 40, 2]	4.0 Plate 90
+[p3, 41, 2]	4.1 WhatTheHeck?:
+[p3, 42, 2]	4.2 GtrDlyPlate:
+[p3, 43, 2]	4.3 Patterns BPM:
+[p3, 44, 2]	4.4 MultPlateDly:
+[p3, 45, 2]	4.5 MonoOrStereo:
+[p3, 46, 2]	4.6 TapDelayBPM:
+[p3, 47, 2]	4.7 Spatial Plate:
+[p3, 48, 2]	4.8 PanEkoBPM:
+[p3, 49, 2]	4.9 Gen. Plate:
+		
+[g1]		Program Bank P3: Post
+		
+[g2]		Indoor Small
+[p3, 0, 3]	0.0 Cabin Fever
+[p3, 1, 3]	0.1 Echo/Kitchen
+[p3, 2, 3]	0.2 HardwoodRoom
+[p3, 3, 3]	0.3 MeetingRoom
+[p3, 4, 3]	0.4 Locker Room
+[p3, 5, 3]	0.5 Living Room
+[p3, 6, 3]	0.6 Bedroom
+[p3, 7, 3]	0.7 Dual Closets
+[p3, 8, 3]	0.8 Phone Booth
+[p3, 9, 3]	0.9 Coffin
+		
+[g2]		Indoor Large
+[p3, 10, 3]	1.0 MetalChamber
+[p3, 11, 3]	1.1 Stairwell
+[p3, 12, 3]	1.2 Make-A-Space
+[p3, 13, 3]	1.3 Dly/Hallway
+[p3, 14, 3]	1.4 LectureHalls
+[p3, 15, 3]	1.5 Dance Hall
+[p3, 16, 3]	1.6 Ballrooms
+[p3, 17, 3]	1.7 Empty Club
+[p3, 18, 3]	1.8 NYC Clubs
+[p3, 19, 3]	1.9 Sports Verbs
+		
+[g2]		Outdoor
+[p3, 20, 3]	2.0 Inside-Out
+[p3, 21, 3]	2.1 Outdoor PA
+[p3, 22, 3]	2.2 Outdoor PA 2
+[p3, 23, 3]	2.3 Two Autos
+[p3, 24, 3]	2.4 NYC Tunnels
+[p3, 25, 3]	2.5 Indoors/Out
+[p3, 26, 3]	2.6 Echo Beach
+[p3, 27, 3]	2.7 Block Party
+[p3, 28, 3]	2.8 Stadium
+[p3, 29, 3]	2.9 Dull/Bright
+		
+[g2]		Spatial
+[p3, 30, 3]	3.0 Wobble Room
+[p3, 31, 3]	3.1 Spatializer
+[p3, 32, 3]	3.2 Mic Location
+[p3, 33, 3]	3.3 Voices?
+[p3, 34, 3]	3.4 Voices? 2
+[p3, 35, 3]	3.5 Voices? BPM
+[p3, 36, 3]	3.6 MovingDelays
+[p3, 37, 3]	3.7 Window
+[p3, 38, 3]	3.8 Wall Slap
+[p3, 39, 3]	3.9 BombayClub
+		
+[g2]		Custom
+[p3, 40, 3]	4.0 X Variable
+[p3, 41, 3]	4.1 Y Variable
+[p3, 42, 3]	4.2 Sound Check
+[p3, 43, 3]	4.3 Sound Stage
+[p3, 44, 3]	4.4 BPM Looper
+[p3, 45, 3]	4.5 Reverse Taps
+[p3, 46, 3]	4.6 Air Pressure
+[p3, 47, 3]	4.7 The Tomb
+[p3, 48, 3]	4.8 Mythology
+[p3, 49, 3]	4.9 Mr. Vader
+		
+[g1]		Program Bank P4: Splits
+		
+[g2]		Mono
+[p3, 0, 4]	0.0 Chamber/Room
+[p3, 1, 4]	0.1 Two Chambers
+[p3, 2, 4]	0.2 Hall/Room
+[p3, 3, 4]	0.3 Mono Halls
+[p3, 4, 4]	0.4 LgKick/Snare
+[p3, 5, 4]	0.5 Keys Room
+[p3, 6, 4]	0.6 Two Guitars
+[p3, 7, 4]	0.7 Fusion BD/SN
+[p3, 8, 4]	0.8 Dual Drums
+[p3, 9, 4]	0.9 SmKick/Snare
+		
+[g2]		Stereo
+[p3, 10, 4]	1.0 Vocal Verbs
+[p3, 11, 4]	1.1 Studio Rooms
+[p3, 12, 4]	1.2 Hard Rooms
+[p3, 13, 4]	1.3 Random Rooms
+[p3, 14, 4]	1.4 Hall/Basemnt
+[p3, 15, 4]	1.5 Breath
+[p3, 16, 4]	1.6 Cathedrals
+[p3, 17, 4]	1.7 Castle Chmbr
+[p3, 18, 4]	1.8 Warm Dual
+[p3, 19, 4]	1.9 Rvb+DryDelay
+		
+[g2]		Live Sound
+[p3, 20, 4]	2.0 Dlys/HallsBPM
+[p3, 21, 4]	2.1 Split Elvis
+[p3, 22, 4]	2.2 Room In Room
+[p3, 23, 4]	2.3 Bloom Verbs
+[p3, 24, 4]	2.4 DualEcho BPM
+[p3, 25, 4]	2.5 Chords/Leads
+[p3, 26, 4]	2.6 Two Delays
+[p3, 27, 4]	2.7 Gloss & BPM
+[p3, 28, 4]	2.8 BPMVox/Drums
+[p3, 29, 4]	2.9 DualDelayBPM
+		
+[g2]		Instrument
+[p3, 30, 4]	3.0 Symphonic
+[p3, 31, 4]	3.1 Bass Mics
+[p3, 32, 4]	3.2 Dyna Room
+[p3, 33, 4]	3.3 TwoDrumRooms
+[p3, 34, 4]	3.4 Full Kit
+[p3, 35, 4]	3.5 Perc/Synth
+[p3, 36, 4]	3.6 Rhodes/Brass
+[p3, 37, 4]	3.7 Organ/Piano
+[p3, 38, 4]	3.8 Brass/String
+[p3, 39, 4]	3.9 Guitar Verbs
+		
+[g2]		Custom
+[p3, 40, 4]	4.0 Thunder&Ice
+[p3, 41, 4]	4.1 Ring Verb
+[p3, 42, 4]	4.2 Dark & Brite
+[p3, 43, 4]	4.3 Dark & Gated
+[p3, 44, 4]	4.4 Pipe Reverb
+[p3, 45, 4]	4.5 Weird Places
+[p3, 46, 4]	4.6 Two Rooms
+[p3, 47, 4]	4.7 TapDly&Hall
+[p3, 48, 4]	4.8 E-NoseDelays
+[p3, 49, 4]	4.9 Gen. Split
+		
+[g1]		Program Bank P5: Studio
+		
+[g2]		Environments
+[p3, 0, 5]	0.0 Lunar Blue
+[p3, 1, 5]	0.1 Air 1/Air 2
+[p3, 2, 5]	0.2 Ambi 1/Air 3
+[p3, 3, 5]	0.3 Big/Bigger
+[p3, 4, 5]	0.4 Big Rooms
+[p3, 5, 5]	0.5 HallA /HallB
+[p3, 6, 5]	0.6 Living Dead
+[p3, 7, 5]	0.7 Wave/NuHall
+[p3, 8, 5]	0.8 Dual Chambrs
+[p3, 9, 5]	0.9 Crusher
+		
+[g2]		Instruments
+[p3, 10, 5]	1.0 Studio A + B
+[p3, 11, 5]	1.1 Two Rooms
+[p3, 12, 5]	1.2 Reversals
+[p3, 13, 5]	1.3 Thiss/Flubb
+[p3, 14, 5]	1.4 Sax Gates
+[p3, 15, 5]	1.5 Fat Guitars
+[p3, 16, 5]	1.6 Vintage FX
+[p3, 17, 5]	1.7 TremoloVerb
+[p3, 18, 5]	1.8 Guitar Weeps
+[p3, 19, 5]	1.9 Amp>Add Room
+		
+[g2]		Vocal
+[p3, 20, 5]	2.0 Far/CloseMic
+[p3, 21, 5]	2.1 Vox Doublers
+[p3, 22, 5]	2.2 Real Vocals
+[p3, 23, 5]	2.3 ErsatzPlates
+[p3, 24, 5]	2.4 Endless Vox
+[p3, 25, 5]	2.5 Tapps/Mic
+[p3, 26, 5]	2.6 Mic>Add Room
+[p3, 27, 5]	2.7 Studio>Walls
+[p3, 28, 5]	2.8 Airclip>Room
+[p3, 29, 5]	2.9 Plate>DifEko
+		
+[g2]		Drums/Perc
+[p3, 30, 5]	3.0 Drum Gates
+[p3, 31, 5]	3.1 Nonlin A+B
+[p3, 32, 5]	3.2 Kick+Snare
+[p3, 33, 5]	3.3 Kick+Snare2
+[p3, 34, 5]	3.4 Buckslam Oil
+[p3, 35, 5]	3.5 Atom Jumper
+[p3, 36, 5]	3.6 70Kick+Snare
+[p3, 37, 5]	3.7 Ballad Drums
+[p3, 38, 5]	3.8 HiphopDrumz
+[p3, 39, 5]	3.9 NuGate+Room
+		
+[g2]		Custom
+[p3, 40, 5]	4.0 Rise n’Verbs
+[p3, 41, 5]	4.1 Brick n ‘Wood
+[p3, 42, 5]	4.2 Grit Verbs
+[p3, 43, 5]	4.3 Zippers A/B
+[p3, 44, 5]	4.4 Stereoizers
+[p3, 45, 5]	4.5 EchoVerb
+[p3, 46, 5]	4.6 Flipped Tape
+[p3, 47, 5]	4.7 Direct GTR
+[p3, 48, 5]	4.8 Clipp/Bsmnt
+[p3, 49, 5]	4.9 TrembleRobot
+		
+[g1]		Program Bank P6: Live
+		
+[g2]		Acoustic
+[p3, 0, 6]	0.0 Sprites A/B
+[p3, 1, 6]	0.1 Brass+Room
+[p3, 2, 6]	0.2 Horns+String
+[p3, 3, 6]	0.3 Elecoustic
+[p3, 4, 6]	0.4 Hall/Chamber
+[p3, 5, 6]	0.5 Wind+Brass
+[p3, 6, 6]	0.6 Place>Roomed
+[p3, 7, 6]	0.7 Dream Hornz
+[p3, 8, 6]	0.8 Dream Hornz2
+[p3, 9, 6]	0.9 Small Halls
+		
+[g2]		Electric
+[p3, 10, 6]	1.0 Griln/Flitt
+[p3, 11, 6]	1.1 Pico Gates
+[p3, 12, 6]	1.2 HiPass/Club
+[p3, 13, 6]	1.3 Rock Guitars
+[p3, 14, 6]	1.4 Spritz>Verb
+[p3, 15, 6]	1.5 Brite>Hallit
+[p3, 16, 6]	1.6 Echo>Room
+[p3, 17, 6]	1.7 Gate>Hall
+[p3, 18, 6]	1.8 Gater>Silkey
+[p3, 19, 6]	1.9 Slap>Bleed
+		
+[g2]		Vocal
+[p3, 20, 6]	2.0 Vocals
+[p3, 21, 6]	2.1 Sax+Vox Hall
+[p3, 22, 6]	2.2 LiveVoxPlate
+[p3, 23, 6]	2.3 Air>Club
+[p3, 24, 6]	2.4 Gated>Hiss
+[p3, 25, 6]	2.5 ArchAngels
+[p3, 26, 6]	2.6 Lead+BackVox
+[p3, 27, 6]	2.7 Small>Hall
+[p3, 28, 6]	2.8 Nonlin>Open
+[p3, 29, 6]	2.9 SmlGate>Chmb
+		
+[g2]		Drums/Perc
+[p3, 30, 6]	3.0 Nonlin Plus
+[p3, 31, 6]	3.1 PercussHalls
+[p3, 32, 6]	3.2 Drums+Vox
+[p3, 33, 6]	3.3 Gate Weight
+[p3, 34, 6]	3.4 Kick+Sn Invrs
+[p3, 35, 6]	3.5 Drums/2Kill
+[p3, 36, 6]	3.6 Live DRUMrms
+[p3, 37, 6]	3.7 JumpinDrumZ
+[p3, 38, 6]	3.8 Nonlin>Garaj
+[p3, 39, 6]	3.9 Room>Woosh
+		
+[g2]		Custom
+[p3, 40, 6]	4.0 Angels Sing
+[p3, 41, 6]	4.1 StompVox FX
+[p3, 42, 6]	4.2 Flitz>Echo
+[p3, 43, 6]	4.3 Horn Section
+[p3, 44, 6]	4.4 Soliloquy
+[p3, 45, 6]	4.5 Room>Chamber
+[p3, 46, 6]	4.6 Hang>BigCan
+[p3, 47, 6]	4.7 Chmbr+Plate
+[p3, 48, 6]	4.8 2 Big Halls
+[p3, 49, 6]	4.9 2 FakePlates
+		
+[g1]		Program Bank P7: Post
+		
+[g2]		SmallSpaces
+[p3, 0, 7]	0.0 Booth 1/2
+[p3, 1, 7]	0.1 Bathroom M/W
+[p3, 2, 7]	0.2 Bedroom/Gate
+[p3, 3, 7]	0.3 Bath/Gate
+[p3, 4, 7]	0.4 Car/Reverse
+[p3, 5, 7]	0.5 Oil Drums
+[p3, 6, 7]	0.6 Two Coffins
+[p3, 7, 7]	0.7 Small Rooms
+[p3, 8, 7]	0.8 Close/Closet
+[p3, 9, 7]	0.9 Coffin>Heavn
+		
+[g2]		Medium Spaces
+[p3, 10, 7]	1.0 Garage A+B
+[p3, 11, 7]	1.1 Locker/Booth
+[p3, 12, 7]	1.2 Garage/Booth
+[p3, 13, 7]	1.3 Class/LoGate
+[p3, 14, 7]	1.4 Studio/Gate
+[p3, 15, 7]	1.5 Farm Rooms
+[p3, 16, 7]	1.6 Barns
+[p3, 17, 7]	1.7 Medium Rooms
+[p3, 18, 7]	1.8 Room>Smooth
+[p3, 19, 7]	1.9 Store>Wrhrse
+		
+[g2]		LargeSpaces
+[p3, 20, 7]	2.0 Club/Rehurse
+[p3, 21, 7]	2.1 Hangar/Wave
+[p3, 22, 7]	2.2 TajMahal/Gat
+[p3, 23, 7]	2.3 Gym/DublGate
+[p3, 24, 7]	2.4 5:15 Hall
+[p3, 25, 7]	2.5 Wembley
+[p3, 26, 7]	2.6 Bloom>Gym
+[p3, 27, 7]	2.7 Box>Hall
+[p3, 28, 7]	2.8 Small & Huge
+[p3, 29, 7]	2.9 Skydome
+		
+[g2]		Cool Places
+[p3, 30, 7]	3.0 Igloo
+[p3, 31, 7]	3.1 Scrap Yard
+[p3, 32, 7]	3.2 Rolly+Arena
+[p3, 33, 7]	3.3 Stair>Canyon
+[p3, 34, 7]	3.4 Close>Far
+[p3, 35, 7]	3.5 Bricks>Wash
+[p3, 36, 7]	3.6 Tin Castle
+[p3, 37, 7]	3.7 Cemetery
+[p3, 38, 7]	3.8 Log Cabin
+[p3, 39, 7]	3.9 Brick+Glass
+		
+[g2]		Custom
+[p3, 40, 7]	4.0 Up & Down
+[p3, 41, 7]	4.1 Silos
+[p3, 42, 7]	4.2 Rivets>Tank
+[p3, 43, 7]	4.3 Phazer>Hall
+[p3, 44, 7]	4.4 Wind+Thunder
+[p3, 45, 7]	4.5 Pitfall!
+[p3, 46, 7]	4.6 TemporalRift
+[p3, 47, 7]	4.7 Ricochets
+[p3, 48, 7]	4.8 NaturaSpace
+[p3, 49, 7]	4.9 Reverse>Echo
+		
+[g1]		Program Bank P8: Surround
+		
+[g2]		Small Spaces
+[p3, 0, 8]	0.0 Submersible
+[p3, 1, 8]	0.1 Tap Chamber
+[p3, 2, 8]	0.2 Tempo Verb
+[p3, 3, 8]	0.3 SnareChamber
+[p3, 4, 8]	0.4 Tiled Surrnd
+[p3, 5, 8]	0.5 SurrndChambr
+[p3, 6, 8]	0.6 Surrnd Room
+[p3, 7, 8]	0.7 Surrnd Booth
+[p3, 8, 8]	0.8 Dark Room
+[p3, 9, 8]	0.9 Phone Booth
+		
+[g2]		Large Spaces
+[p3, 10, 8]	1.0 Classical
+[p3, 11, 8]	1.1 Surround Vox
+[p3, 12, 8]	1.2 LincolnTunnl
+[p3, 13, 8]	1.3 Empty Stage
+[p3, 14, 8]	1.4 Vox Chamber
+[p3, 15, 8]	1.5 Surrnd Club
+[p3, 16, 8]	1.6 Surrnd Space
+[p3, 17, 8]	1.7 Lecture Hall
+[p3, 18, 8]	1.8 Bayside Expo
+[p3, 19, 8]	1.9 Tin RearWall
+		
+[g2]		Unnatural FX
+[p3, 20, 8]	2.0 InvFront2Bak
+[p3, 21, 8]	2.1 DlyUpVerbBak
+[p3, 22, 8]	2.2 DynamicSwell
+[p3, 23, 8]	2.3 Steam Bath
+[p3, 24, 8]	2.4 Clockwise
+[p3, 25, 8]	2.5 Quad Tremolo
+[p3, 26, 8]	2.6 HipHopSurrnd
+[p3, 27, 8]	2.7 Cyber Vortex
+[p3, 28, 8]	2.8 Yodel!!
+[p3, 29, 8]	2.9 CyberVox
+		
+[g2]		Custom
+[p3, 30, 8]	3.0 Bombs Away!
+[p3, 31, 8]	3.1 Brick Kick
+[p3, 32, 8]	3.2 BypasStompFX
+[p3, 33, 8]	3.3 StompSwellFX
+[p3, 34, 8]	3.4 RollinThundr
+[p3, 35, 8]	3.5 Dark Cavern
+[p3, 36, 8]	3.6 Invertigo
+[p3, 37, 8]	3.7 Invertigo2
+[p3, 38, 8]	3.8 Guitar Hero
+[p3, 39, 8]	3.9 Stranglehold
+		
+[g2]		Clean Slate Presets
+[p3, 40, 8]	4.0 Room2/Room2
+[p3, 41, 8]	4.1 Invrs/Invrs
+[p3, 42, 8]	4.2 Chmbr/Invrs
+[p3, 43, 8]	4.3 Invrs/Room2
+[p3, 44, 8]	4.4 Chmbr/Chmbr
+[p3, 45, 8]	4.5 Chmbr>Room2
+[p3, 46, 8]	4.6 Invrs>Chmbr
+[p3, 47, 8]	4.7 Room2>Chmbr
+[p3, 48, 8]	4.8 Invrs>Room2
+[p3, 49, 8]	4.9 Matrix Chmb
+
+[g1]		Program Bank R0: User 1
+		
+[g2]		User Group 0
+[p3, 0, 9]	0.0
+[p3, 1, 9]	0.1
+[p3, 2, 9]	0.2
+[p3, 3, 9]	0.3
+[p3, 4, 9]	0.4
+[p3, 5, 9]	0.5
+[p3, 6, 9]	0.6
+[p3, 7, 9]	0.7
+[p3, 8, 9]	0.8
+[p3, 9, 9]	0.9
+		
+[g2]		User Group 1
+[p3, 10, 9]	1.0
+[p3, 11, 9]	1.1
+[p3, 12, 9]	1.2
+[p3, 13, 9]	1.3
+[p3, 14, 9]	1.4
+[p3, 15, 9]	1.5
+[p3, 16, 9]	1.6
+[p3, 17, 9]	1.7
+[p3, 18, 9]	1.8
+[p3, 19, 9]	1.9
+		
+[g2]		User Group 2
+[p3, 20, 9]	2.0
+[p3, 21, 9]	2.1
+[p3, 22, 9]	2.2
+[p3, 23, 9]	2.3
+[p3, 24, 9]	2.4
+[p3, 25, 9]	2.5
+[p3, 26, 9]	2.6
+[p3, 27, 9]	2.7
+[p3, 28, 9]	2.8
+[p3, 29, 9]	2.9
+		
+[g2]		User Group 3
+[p3, 30, 9]	3.0
+[p3, 31, 9]	3.1
+[p3, 32, 9]	3.2
+[p3, 33, 9]	3.3
+[p3, 34, 9]	3.4
+[p3, 35, 9]	3.5
+[p3, 36, 9]	3.6
+[p3, 37, 9]	3.7
+[p3, 38, 9]	3.8
+[p3, 39, 9]	3.9
+		
+[g2]		User Group 4
+[p3, 40, 9]	4.0
+[p3, 41, 9]	4.1
+[p3, 42, 9]	4.2
+[p3, 43, 9]	4.3
+[p3, 44, 9]	4.4
+[p3, 45, 9]	4.5
+[p3, 46, 9]	4.6
+[p3, 47, 9]	4.7
+[p3, 48, 9]	4.8
+[p3, 49, 9]	4.9
+		
+[g1]		Program Bank R1: User 2
+		
+[g2]		User Group 0
+[p3, 0, 10]	0.0
+[p3, 1, 10]	0.1
+[p3, 2, 10]	0.2
+[p3, 3, 10]	0.3
+[p3, 4, 10]	0.4
+[p3, 5, 10]	0.5
+[p3, 6, 10]	0.6
+[p3, 7, 10]	0.7
+[p3, 8, 10]	0.8
+[p3, 9, 10]	0.9
+		
+[g2]		User Group 1
+[p3, 10, 10]	1.0
+[p3, 11, 10]	1.1
+[p3, 12, 10]	1.2
+[p3, 13, 10]	1.3
+[p3, 14, 10]	1.4
+[p3, 15, 10]	1.5
+[p3, 16, 10]	1.6
+[p3, 17, 10]	1.7
+[p3, 18, 10]	1.8
+[p3, 19, 10]	1.9
+		
+[g2]		User Group 2
+[p3, 20, 10]	2.0
+[p3, 21, 10]	2.1
+[p3, 22, 10]	2.2
+[p3, 23, 10]	2.3
+[p3, 24, 10]	2.4
+[p3, 25, 10]	2.5
+[p3, 26, 10]	2.6
+[p3, 27, 10]	2.7
+[p3, 28, 10]	2.8
+[p3, 29, 10]	2.9
+		
+[g2]		User Group 3
+[p3, 30, 10]	3.0
+[p3, 31, 10]	3.1
+[p3, 32, 10]	3.2
+[p3, 33, 10]	3.3
+[p3, 34, 10]	3.4
+[p3, 35, 10]	3.5
+[p3, 36, 10]	3.6
+[p3, 37, 10]	3.7
+[p3, 38, 10]	3.8
+[p3, 39, 10]	3.9
+		
+[g2]		User Group 4
+[p3, 40, 10]	4.0
+[p3, 41, 10]	4.1
+[p3, 42, 10]	4.2
+[p3, 43, 10]	4.3
+[p3, 44, 10]	4.4
+[p3, 45, 10]	4.5
+[p3, 46, 10]	4.6
+[p3, 47, 10]	4.7
+[p3, 48, 10]	4.8
+[p3, 49, 10]	4.9
+
+[end]
+

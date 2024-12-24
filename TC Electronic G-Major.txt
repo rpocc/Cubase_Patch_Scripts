@@ -1,0 +1,125 @@
+[cubase parse file]
+
+[parser version 0001]
+
+
+
+[creators first name]Dmitry
+
+[creators last name]Shtatnov
+
+[device manufacturer]TC Electgronic
+
+[device name]G-Major
+
+[script name]TC Electgronic G-Major
+
+[script version]version 1.00
+
+
+
+[define patchnames]
+
+[p1, 0, -1, -1]		G-Major Verb & Slap
+[p1, 1, -1, -1]		Clean Reverb
+[p1, 2, -1, -1]		Sheryls Sound
+[p1, 3, -1, -1]		Tremolo Pedal Speed
+[p1, 4, -1, -1]		So Scho
+[p1, 5, -1, -1]		Scotty's Blues
+[p1, 6, -1, -1]		Straight Lead
+[p1, 7, -1, -1]		Funky Thang
+[p1, 8, -1, -1]		Right On The Edge
+[p1, 9, -1, -1]		Bluebox Echoes
+[p1, 10, -1, -1]		Sparkle
+[p1, 11, -1, -1]		Pan Chorus
+[p1, 12, -1, -1]		Clean Cowboy
+[p1, 13, -1, -1]		Cowboy Slap
+[p1, 14, -1, -1]		The Good, Bad & Ugly
+[p1, 15, -1, -1]		Rockabilly Slap
+[p1, 16, -1, -1]		All That Lee
+[p1, 17, -1, -1]		A Bit Of Chet A
+[p1, 18, -1, -1]		Shadows Of H. Marvin
+[p1, 19, -1, -1]		Filtered Slap Delay
+[p1, 20, -1, -1]		Straight Slap Dly
+[p1, 21, -1, -1]		Subtle Lead Fx's
+[p1, 22, -1, -1]		Chorused Lead
+[p1, 23, -1, -1]		Chorus & Dyn Dly
+[p1, 24, -1, -1]		T Petty Chorus
+[p1, 25, -1, -1]		Jazz Ballad
+[p1, 26, -1, -1]		Wide Chorus
+[p1, 27, -1, -1]		Wes M Jazz Lead
+[p1, 28, -1, -1]		Funky Music Verb
+[p1, 29, -1, -1]		Rock'n Roll Spring
+[p1, 30, -1, -1]		Rev Amb
+[p1, 31, -1, -1]		TightVerb
+[p1, 32, -1, -1]		SpreadVerb
+[p1, 33, -1, -1]		Small Room
+[p1, 34, -1, -1]		Dly Doubler
+[p1, 35, -1, -1]		Clean,Comp,Chorus'd
+[p1, 36, -1, -1]		Comp'n Detune
+[p1, 37, -1, -1]		Blues Lead
+[p1, 38, -1, -1]		Blues Room
+[p1, 39, -1, -1]		Blues Rhythm
+[p1, 40, -1, -1]		Subtle Acoustic
+[p1, 41, -1, -1]		For Acoustic Guitar
+[p1, 42, -1, -1]		Finger Picking
+[p1, 43, -1, -1]		Crunch My Phaser
+[p1, 44, -1, -1]		Jimmmy H
+[p1, 45, -1, -1]		Phaser Pedal
+[p1, 46, -1, -1]		Pedal Vibe
+[p1, 47, -1, -1]		Pedal Leslie
+[p1, 48, -1, -1]		Vibra Room
+[p1, 49, -1, -1]		Phat Phaser
+[p1, 50, -1, -1]		Lush Chorus
+[p1, 51, -1, -1]		Formerly Known As?
+[p1, 52, -1, -1]		Swell Delays
+[p1, 53, -1, -1]		Wet Delays
+[p1, 54, -1, -1]		Clean Verb & Dly
+[p1, 55, -1, -1]		Tape Flange & Delay
+[p1, 56, -1, -1]		Lone Flanger
+[p1, 57, -1, -1]		Phasing Repeats
+[p1, 58, -1, -1]		Funky Chicken
+[p1, 59, -1, -1]		Funky Octaver
+[p1, 60, -1, -1]		Filter Fun
+[p1, 61, -1, -1]		Lazy Filter
+[p1, 62, -1, -1]		Auto Filter
+[p1, 63, -1, -1]		Far Away Vibrato
+[p1, 64, -1, -1]		What a Bright Kid
+[p1, 65, -1, -1]		Octave Dubber
+[p1, 66, -1, -1]		2 Oct Whammy up
+[p1, 67, -1, -1]		1 Oct Whammy up
+[p1, 68, -1, -1]		Oct Up
+[p1, 69, -1, -1]		Whammy 2 Semi Down
+[p1, 70, -1, -1]		Octave
+[p1, 71, -1, -1]		OctaWah
+[p1, 72, -1, -1]		Synth Guitar
+[p1, 73, -1, -1]		Deep Bass
+[p1, 74, -1, -1]		Bend Up Slaps
+[p1, 75, -1, -1]		Rich Dual Delay
+[p1, 76, -1, -1]		Phaser Room
+[p1, 77, -1, -1]		Hard Tremolo
+[p1, 78, -1, -1]		Detune
+[p1, 79, -1, -1]		Ping Pong
+[p1, 80, -1, -1]		Slapback Delay
+[p1, 81, -1, -1]		Straight Tremolo
+[p1, 82, -1, -1]		Flanged Tremolo
+[p1, 83, -1, -1]		Big Chicken
+[p1, 84, -1, -1]		Pedal Filter
+[p1, 85, -1, -1]		Chopped Steppers
+[p1, 86, -1, -1]		Locked In Vibrato
+[p1, 87, -1, -1]		Chopper
+[p1, 88, -1, -1]		UnconciousPedal
+[p1, 89, -1, -1]		Synthesized
+[p1, 90, -1, -1]		Machine
+[p1, 91, -1, -1]		Skysaw Guitar
+[p1, 92, -1, -1]		Synthesized Leads
+[p1, 93, -1, -1]		Sus4 Dreamscape
+[p1, 94, -1, -1]		Arpegiator
+[p1, 95, -1, -1]		Infinity & Beyond
+[p1, 96, -1, -1]		Bass Comp
+[p1, 97, -1, -1]		Bass Chorus
+[p1, 98, -1, -1]		Bass Autofilter
+[p1, 99, -1, -1]		To Be Continued...
+
+[end]
+

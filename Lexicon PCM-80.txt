@@ -1,0 +1,595 @@
+[cubase parse file]
+
+[parser version 0001]
+
+
+
+[creators first name]Dmitry
+
+[creators last name]Shtatnov
+
+[device manufacturer]LEXICON
+
+[device name]PCM-80
+
+[script name]Lexicon PCM-80
+
+[script version]version 1.00
+
+[define patchnames]
+
+[g1]		Program Bank 0
+		
+[g2]		Multi Effects
+[p3, 0, -1, 0]		0.0 Prime Blue
+[p3, 1, -1, 0]		0.1 EkoChorus
+[p3, 2, -1, 0]		0.2 Wet Chorus
+[p3, 3, -1, 0]		0.3 Wet Chorus 2
+[p3, 4, -1, 0]		0.4 Wet Chorus 3
+[p3, 5, -1, 0]		0.5 Chorus Plate
+[p3, 6, -1, 0]		0.6 Chorus Room
+[p3, 7, -1, 0]		0.7 ChorusToRvb
+[p3, 8, -1, 0]		0.8 Funkus Room
+[p3, 9, -1, 0]		0.9 Detune & Room
+[p3, 10, -1, 0]		1.0 Detune&Dbl
+[p3, 11, -1, 0]		1.1 Tight Space
+[p3, 12, -1, 0]		1.2 Flange >Rvb
+[p3, 13, -1, 0]		1.3 Flange+Rvb
+[p3, 14, -1, 0]		1.4 X Eko Flange (T)
+[p3, 15, -1, 0]		1.5 Glide > Verb
+[p3, 16, -1, 0]		1.6 Glide X-Ekos
+[p3, 17, -1, 0]		1.7 Detuned Ekos (T)
+[p3, 18, -1, 0]		1.8 StereoEqEkos (T)
+[p3, 19, -1, 0]		1.9 ADJUpMyEchos (T)
+		
+[g2]		Modulation Effects
+[p3, 20, -1, 0]		2.0 FSw2 Elevate (T)
+[p3, 21, -1, 0]		2.1 Chorus &Pan
+[p3, 22, -1, 0]		2.2 Chorus&Amb (T)
+[p3, 23, -1, 0]		2.3 6 Vox Chorus
+[p3, 24, -1, 0]		2.4 Split C&E (T)
+[p3, 25, -1, 0]		2.5 Env:PanKorus
+[p3, 26, -1, 0]		2.6 6 Vox Flange
+[p3, 27, -1, 0]		2.7 Mod Max
+[p3, 28, -1, 0]		2.8 PreciseGlide (T)
+[p3, 29, -1, 0]		2.9 Round 147
+[p3, 30, -1, 0]		3.0 FSw2 Rotary
+[p3, 31, -1, 0]		3.1 RotorCabinet
+[p3, 32, -1, 0]		3.2 MIDI Rotary (T)
+[p3, 33, -1, 0]		3.3 Tiled Rotary
+[p3, 34, -1, 0]		3.4 RotoWood
+[p3, 35, -1, 0]		3.5 RandomImages (T)
+		
+[g2]		Special Effects
+[p3, 36, -1, 0]		3.6 Under Water
+[p3, 37, -1, 0]		3.7 Thunder FX (T)
+[p3, 38, -1, 0]		3.8 Thunder FX (T)
+[p3, 39, -1, 0]		3.9 ChaosImpuls
+[p3, 40, -1, 0]		4.0 DemonDescent
+[p3, 41, -1, 0]		4.1 RoughIdle
+[p3, 42, -1, 0]		4.2 RoxStutter
+[p3, 43, -1, 0]		4.3 Split Pitch?
+[p3, 44, -1, 0]		4.4 TryTalk’n
+[p3, 45, -1, 0]		4.5 AutoInfinite (T)
+[p3, 46, -1, 0]		4.6 Remove Cntr
+[p3, 47, -1, 0]		4.7 V-Eliminate
+[p3, 48, -1, 0]		4.8 NoCenter Eko (T)
+[p3, 49, -1, 0]		4.9 Rvb On L–R
+		
+[g1]		Program Bank 1
+		
+[g2]		Rhythmic Echo and Delay Effects
+[p3, 0, -1, 1]		0.0 {n}Ekos/Beat (T)
+[p3, 1, -1, 1]		0.1 StereoTapDly (T)
+[p3, 2, -1, 1]		0.2 OffBeat Eko (T)
+[p3, 3, -1, 1]		0.3 OffBeat Eko2 (T)
+[p3, 4, -1, 1]		0.4 Dotted 8ths (T)
+[p3, 5, -1, 1]		0.5 Shuffle Ekos (T)
+[p3, 6, -1, 1]		0.6 Shuffles (T)
+[p3, 7, -1, 1]		0.7 Sliding Eko (T)
+[p3, 8, -1, 1]		0.8 Six Trips (T)
+[p3, 9, -1, 1]		0.9 6 StrokeRoll (T)
+[p3, 10, -1, 1]		1.0 TapGated Rvb (T)
+[p3, 11, -1, 1]		1.1 TapEkoGate 1 (T)
+[p3, 12, -1, 1]		1.2 TapEkoGate 2 (T)
+[p3, 13, -1, 1]		1.3 TapEkoClear (T)
+[p3, 14, -1, 1]		1.4 Tap Chamber1 (T)
+[p3, 15, -1, 1]		1.5 Tap Chamber2 (T)
+[p3, 16, -1, 1]		1.6 LatchedEkos (T)
+[p3, 17, -1, 1]		1.7 X-PanEQ BPM (T)
+[p3, 18, -1, 1]		1.8 Pan->Eko BPM (T)
+[p3, 19, -1, 1]		1.9 Tempo Verb (T)
+[p3, 20, -1, 1]		2.0 Tempo Gate (T)
+[p3, 21, -1, 1]		2.1 Tape Echo (T)
+[p3, 22, -1, 1]		2.2 NonLinear 1 (T)
+[p3, 23, -1, 1]		2.3 NonLinear 2 (T)
+[p3, 24, -1, 1]		2.4 NonLinear 3 (T)
+[p3, 25, -1, 1]		2.5 Six Across
+[p3, 26, -1, 1]		2.6 BandEko Rvb (T)
+[p3, 27, -1, 1]		2.7 BandEkoSweep (T)
+[p3, 28, -1, 1]		2.8 LFO EQ Echo (T)
+[p3, 29, -1, 1]		2.9 Chase Echo (T)
+[p3, 30, -1, 1]		3.0 Panned Dlys (T)
+[p3, 31, -1, 1]		3.1 X-Pan Delays (T)
+[p3, 32, -1, 1]		3.2 Dly>EQ>Pans (T)
+[p3, 33, -1, 1]		3.3 Ekoz 4 Drums (T)
+[p3, 34, -1, 1]		3.4 Haas PanKnob
+[p3, 35, -1, 1]		3.5 Dial a Delay
+[p3, 36, -1, 1]		3.6 PrecisionDly
+		
+[g2]		Ambience Effects 
+[p3, 37, -1, 1]		3.7 PhoneOrRoom?
+[p3, 38, -1, 1]		3.8 CheapTV Room
+[p3, 39, -1, 1]		3.9 Empty Stage
+[p3, 40, -1, 1]		4.0 Tomb Room
+[p3, 41, -1, 1]		4.1 Comb Room
+[p3, 42, -1, 1]		4.2 Zoom Over
+[p3, 43, -1, 1]		4.3 OneShotCarBy
+[p3, 44, -1, 1]		4.4 AmbientCarBy
+[p3, 45, -1, 1]		4.5 HeadOn CarBy
+[p3, 46, -1, 1]		4.6 2WayStreet
+[p3, 47, -1, 1]		4.7 IntoTunnel
+[p3, 48, -1, 1]		4.8 2WayTunnel
+[p3, 49, -1, 1]		4.9 FinishLine
+		
+[g1]		Program Bank 2
+		
+[g2]		EQEffects 
+[p3, 0, -1, 2]		0.0 StereoLoPass (T)
+[p3, 1, -1, 2]		0.1 Low Pass HiQ (T)
+[p3, 2, -1, 2]		0.2 Low Pass LFO (T)
+[p3, 3, -1, 2]		0.3 StereoHiPass
+[p3, 4, -1, 2]		0.4 StereoB-Pass
+[p3, 5, -1, 2]		0.5 Stereo Notch
+[p3, 6, -1, 2]		0.6 SweptNotches
+[p3, 7, -1, 2]		0.7 Env Notches
+[p3, 8, -1, 2]		0.8 BandReject 4 (T)
+[p3, 9, -1, 2]		0.9 WaaPedalEko (T)
+[p3, 10, -1, 2]		1.0 RotorWaa (T)
+		
+[g2]		Spatial Effects 
+[p3, 11, -1, 2]		1.1 Movable Echo
+[p3, 12, -1, 2]		1.2 Movable Hall
+[p3, 13, -1, 2]		1.3 Go Away
+[p3, 14, -1, 2]		1.4 Circular Pan
+[p3, 15, -1, 2]		1.5 Spatial Hall
+[p3, 16, -1, 2]		1.6 Rear of Hall
+[p3, 17, -1, 2]		1.7 Backstage
+[p3, 18, -1, 2]		1.8 Steered Rear
+[p3, 19, -1, 2]		1.9 Too Deep!
+[p3, 20, -1, 2]		2.0 Dyna-Hall
+[p3, 21, -1, 2]		2.1 RotoRox
+[p3, 22, -1, 2]		2.2 RotoRoomVox
+[p3, 23, -1, 2]		2.3 RotoRoom
+[p3, 24, -1, 2]		2.4 RotoRoom#2
+		
+[g2]		Gain Effects 
+[p3, 25, -1, 2]		2.5 Tremolo Tap1 (T)
+[p3, 26, -1, 2]		2.6 X-TremoloTap (T)
+[p3, 27, -1, 2]		2.7 Panner BPM (T)
+[p3, 28, -1, 2]		2.8 Nice Pan!
+[p3, 29, -1, 2]		2.9 Spin & Duck (T)
+[p3, 30, -1, 2]		3.0 MultiFxFade (T)
+[p3, 31, -1, 2]		3.1 Ghost
+[p3, 32, -1, 2]		3.2 Ghost Flange
+[p3, 33, -1, 2]		3.3 GhostVibrato
+[p3, 34, -1, 2]		3.4 AutoFadeIn 1 (T)
+[p3, 35, -1, 2]		3.5 AutoFadeIn 2 (T)
+[p3, 36, -1, 2]		3.6 AutoFadeIn 3 (T)
+[p3, 37, -1, 2]		3.7 ChordSwells (T)
+[p3, 38, -1, 2]		3.8 BowedChords (T)
+[p3, 39, -1, 2]		3.9 BowedEchoes (T)
+[p3, 40, -1, 2]		4.0 Pedal Swell
+		
+[g2]		Resonant Chord Effects 
+[p3, 41, -1, 2]		4.1 Rez Climber
+[p3, 42, -1, 2]		4.2 Chord Walk (T)
+[p3, 43, -1, 2]		4.3 Mars Bars (T)
+[p3, 44, -1, 2]		4.4 ModalImpulse (T)
+[p3, 45, -1, 2]		4.5 Major Minor (T)
+[p3, 46, -1, 2]		4.6 MIDIChords
+[p3, 47, -1, 2]		4.7 LvlSweeper (T)
+[p3, 48, -1, 2]		4.8 Sweeper (T)
+[p3, 49, -1, 2]		4.9 MIDISustain
+		
+[g1]		Program Bank 3
+		
+[g2]		Reverb Effects 
+[p3, 0, -1, 3]		0.0 Small+Stage
+[p3, 1, -1, 3]		0.1 Small Room
+[p3, 2, -1, 3]		0.2 Living Room
+[p3, 3, -1, 3]		0.3 Brick Kick
+[p3, 4, -1, 3]		0.4 Large Room
+[p3, 5, -1, 3]		0.5 SnareChamber
+[p3, 6, -1, 3]		0.6 Tiled Room
+[p3, 7, -1, 3]		0.7 Rich Chamber
+[p3, 8, -1, 3]		0.8 Vox Chamber
+[p3, 9, -1, 3]		0.9 Locker Room
+[p3, 10, -1, 3]		1.0 Wide Chamber
+[p3, 11, -1, 3]		1.1 Gate Chamber
+[p3, 12, -1, 3]		1.2 Vox Plate
+[p3, 13, -1, 3]		1.3 Good olPlate
+[p3, 14, -1, 3]		1.4 Slap Plate
+[p3, 15, -1, 3]		1.5 Brass Plate
+[p3, 16, -1, 3]		1.6 Drum Plate
+[p3, 17, -1, 3]		1.7 Rich Plate
+[p3, 18, -1, 3]		1.8 Concert Wave
+[p3, 19, -1, 3]		1.9 Concert Hall
+[p3, 20, -1, 3]		2.0 ConcertHall2
+[p3, 21, -1, 3]		2.1 Piano Hall
+[p3, 22, -1, 3]		2.2 Medium Hall
+[p3, 23, -1, 3]		2.3 Vocal Hall (T)
+[p3, 24, -1, 3]		2.4 Deep Space (T)
+[p3, 25, -1, 3]		2.5 Plate4 Horns
+[p3, 26, -1, 3]		2.6 Alley Slap (T)
+[p3, 27, -1, 3]		2.7 Drum Gate
+[p3, 28, -1, 3]		2.8 Slope Down
+		
+[g2]		Processed Reverb Effects 
+[p3, 29, -1, 3]		2.9 BigBoomRoom
+[p3, 30, -1, 3]		3.0 Whammy Hall
+[p3, 31, -1, 3]		3.1 JetChamber
+[p3, 32, -1, 3]		3.2 EnvChamber
+[p3, 33, -1, 3]		3.3 Wizz and Wazz (T)
+[p3, 34, -1, 3]		3.4 Sci Fi
+[p3, 35, -1, 3]		3.5 Wobble Plate
+[p3, 36, -1, 3]		3.6 Dyna Vibrato
+[p3, 37, -1, 3]		3.7 VibroVerb
+[p3, 38, -1, 3]		3.8 SweepVerb
+[p3, 39, -1, 3]		3.9 EnveloVerb
+		
+[g2]		Remix Effects 
+[p3, 40, -1, 3]		4.0 Super Ball! (T)
+[p3, 41, -1, 3]		4.1 LevlStutter (T)
+[p3, 42, -1, 3]		4.2 Freeze 2 of 8 (T)
+[p3, 43, -1, 3]		4.3 Freeze 2over3 (T)
+[p3, 44, -1, 3]		4.4 Freeze&Speed (T)
+[p3, 45, -1, 3]		4.5 ADJToFreeze (T)
+[p3, 46, -1, 3]		4.6 ADJToFreeze2 (T)
+[p3, 47, -1, 3]		4.7 F Sw2 Freeze (T)
+[p3, 48, -1, 3]		4.8 FSw2 Speedup (T)
+[p3, 49, -1, 3]		4.9 LongestLoop
+		
+[g1]		User Programs
+		
+[p2, 0, -1, 4]		0.0 User Program
+[p2, 1, -1, 4]		0.1 User Program
+[p2, 2, -1, 4]		0.2 User Program
+[p2, 3, -1, 4]		0.3 User Program
+[p2, 4, -1, 4]		0.4 User Program
+[p2, 5, -1, 4]		0.5 User Program
+[p2, 6, -1, 4]		0.6 User Program
+[p2, 7, -1, 4]		0.7 User Program
+[p2, 8, -1, 4]		0.8 User Program
+[p2, 9, -1, 4]		0.9 User Program
+[p2, 10, -1, 4]		1.0 User Program
+[p2, 11, -1, 4]		1.1 User Program
+[p2, 12, -1, 4]		1.2 User Program
+[p2, 13, -1, 4]		1.3 User Program
+[p2, 14, -1, 4]		1.4 User Program
+[p2, 15, -1, 4]		1.5 User Program
+[p2, 16, -1, 4]		1.6 User Program
+[p2, 17, -1, 4]		1.7 User Program
+[p2, 18, -1, 4]		1.8 User Program
+[p2, 19, -1, 4]		1.9 User Program
+[p2, 20, -1, 4]		2.0 User Program
+[p2, 21, -1, 4]		2.1 User Program
+[p2, 22, -1, 4]		2.2 User Program
+[p2, 23, -1, 4]		2.3 User Program
+[p2, 24, -1, 4]		2.4 User Program
+[p2, 25, -1, 4]		2.5 User Program
+[p2, 26, -1, 4]		2.6 User Program
+[p2, 27, -1, 4]		2.7 User Program
+[p2, 28, -1, 4]		2.8 User Program
+[p2, 29, -1, 4]		2.9 User Program
+[p2, 30, -1, 4]		3.0 User Program
+[p2, 31, -1, 4]		3.1 User Program
+[p2, 32, -1, 4]		3.2 User Program
+[p2, 33, -1, 4]		3.3 User Program
+[p2, 34, -1, 4]		3.4 User Program
+[p2, 35, -1, 4]		3.5 User Program
+[p2, 36, -1, 4]		3.6 User Program
+[p2, 37, -1, 4]		3.7 User Program
+[p2, 38, -1, 4]		3.8 User Program
+[p2, 39, -1, 4]		3.9 User Program
+[p2, 40, -1, 4]		4.0 User Program
+[p2, 41, -1, 4]		4.1 User Program
+[p2, 42, -1, 4]		4.2 User Program
+[p2, 43, -1, 4]		4.3 User Program
+[p2, 44, -1, 4]		4.4 User Program
+[p2, 45, -1, 4]		4.5 User Program
+[p2, 46, -1, 4]		4.6 User Program
+[p2, 47, -1, 4]		4.7 User Program
+[p2, 48, -1, 4]		4.8 User Program
+[p2, 49, -1, 4]		4.9 User Program
+
+[g1]		Dual FX Card
+
+[g2]		Program Bank X0
+		
+[g3]		Stereo Guitar Room
+[p4, 0, -1, 5]		0.0 Solo Room
+[p4, 1, -1, 5]		0.1 Left Room
+[p4, 2, -1, 5]		0.2 Right Room
+		
+[g3]		Stereo Keyboard Room
+[p4, 3, -1, 5]		0.3 Organ Room
+[p4, 4, -1, 5]		0.4 Phat Roads 1 (T)
+[p4, 5, -1, 5]		0.5 Phat Roads 2 (T)
+[p4, 6, -1, 5]		0.6 Phat Roads 3 (T)
+[p4, 7, -1, 5]		0.7 StereoTunnel
+[p4, 8, -1, 5]		0.8 Is this on?
+[p4, 9, -1, 5]		0.9 ..AndTheGods
+		
+[g3]		Stereo Drum Chamber
+[p4, 10, -1, 5]		1.0 Mix>Perc>BP
+[p4, 11, -1, 5]		1.1 Mix>Snare>LP
+[p4, 12, -1, 5]		1.2 Mix>Snare>HP
+[p4, 13, -1, 5]		1.3 Mix>Drum>LP
+[p4, 14, -1, 5]		1.4 Mix>Drum>HP
+[p4, 15, -1, 5]		1.5 Mix>Drum>BP
+[p4, 16, -1, 5]		1.6 Mix>Kick>LP
+[p4, 17, -1, 5]		1.7 Mix>Kick>HP
+[p4, 18, -1, 5]		1.8 Mix>Gate>LP
+[p4, 19, -1, 5]		1.9 Mix>Gate>BP
+		
+[g3]		Parking Garage
+[p4, 20, -1, 5]		2.0 Mix>Car Park
+		
+[g3]		Ambience & Filter
+[p4, 21, -1, 5]		2.1 Mix>Amb1>LP
+[p4, 22, -1, 5]		2.2 Mix>Amb1>HP
+[p4, 23, -1, 5]		2.3 Mix>Amb1>BP
+[p4, 24, -1, 5]		2.4 Mix>Amb2>LP
+[p4, 25, -1, 5]		2.5 Mix>Amb2>HP
+[p4, 26, -1, 5]		2.6 Mix>Amb3>LP
+[p4, 27, -1, 5]		2.7 Mix>Amb3>HP
+		
+[g3]		Other
+[p4, 28, -1, 5]		2.8 StereoFutz 1
+[p4, 29, -1, 5]		2.9 StereoFutz 2
+[p4, 30, -1, 5]		3.0 Outdoor
+[p4, 31, -1, 5]		3.1 OutdoorWall
+[p4, 32, -1, 5]		3.2 ips TapeSlap
+[p4, 33, -1, 5]		3.3 15ips Echo
+[p4, 34, -1, 5]		3.4 7.5ipsEkoRvb
+[p4, 35, -1, 5]		3.5 V SpeedEko1
+[p4, 36, -1, 5]		3.6 V SpeedEko2
+[p4, 37, -1, 5]		3.7 V SpeedEko3
+[p4, 38, -1, 5]		3.8 Eko Spills 1
+[p4, 39, -1, 5]		3.9 Eko Spills 2
+[p4, 40, -1, 5]		4.0 X-RhythmEko1 (T)
+[p4, 41, -1, 5]		4.1 X-RhythmEko2 (T)
+[p4, 42, -1, 5]		4.2 X-RhythmEko3 (T)
+[p4, 43, -1, 5]		4.3 X-RhythmEko4 (T)
+[p4, 44, -1, 5]		4.4 X-RhythmEko5 (T)
+[p4, 45, -1, 5]		4.5 SlipTheEkos1
+[p4, 46, -1, 5]		4.6 SlipTheEkos2 (T)
+[p4, 47, -1, 5]		4.7 SlipTheEkos3 (T)
+[p4, 48, -1, 5]		4.8 SlipTheBeat1 (T)
+[p4, 49, -1, 5]		4.9 SlipTheBeat2 (T)
+		
+[g2]		Program Bank X1
+		
+[g3]		Stereo
+[p4, 0, -1, 6]		0.0 KnobLocation
+[p4, 1, -1, 6]		0.1 KnobPanSwap
+[p4, 2, -1, 6]		0.2 AutoPanSwap
+[p4, 3, -1, 6]		0.3 ips PlateSlap
+[p4, 4, -1, 6]		0.4 15ips Plate
+[p4, 5, -1, 6]		0.5 4PoleRvb BP
+[p4, 6, -1, 6]		0.6 4PoleRvb HP
+[p4, 7, -1, 6]		0.7 4PoleRvb LP
+[p4, 8, -1, 6]		0.8 Chorus>Rvb 1 (T)
+[p4, 9, -1, 6]		0.9 Chorus>Rvb 2 (T)
+[p4, 10, -1, 6]		1.0 Rvb>Chorus 1 (T)
+[p4, 11, -1, 6]		1.1 Auto Pan Rvb
+[p4, 12, -1, 6]		1.2 Knob Pan Rvb
+[p4, 13, -1, 6]		1.3 FilterPanner (T)
+[p4, 14, -1, 6]		1.4 EQ’d Rvb HP1
+[p4, 15, -1, 6]		1.5 EQ’d Rvb HP2
+[p4, 16, -1, 6]		1.6 EQ’d Rvb LP
+[p4, 17, -1, 6]		1.7 EQ’d Rvb BP
+[p4, 18, -1, 6]		1.8 EQ’d RvbSlap
+[p4, 19, -1, 6]		1.9 EQ’d RvbEnv1 (T)
+[p4, 20, -1, 6]		2.0 EQ’d RvbEnv2 (T)
+[p4, 21, -1, 6]		2.1 EQ’d RvbEnv3 (T)
+[p4, 22, -1, 6]		2.2 EQ’d RvbEnv4 (T)
+[p4, 23, -1, 6]		2.3 Wah Verb (T)
+[p4, 24, -1, 6]		2.4 Wah Verb Eko (T)
+[p4, 25, -1, 6]		2.5 Wah Eko Verb (T)
+[p4, 26, -1, 6]		2.6 Weird EkoRvb
+[p4, 27, -1, 6]		2.7 Echo Rise 1
+[p4, 28, -1, 6]		2.8 Echo Rise 2
+[p4, 29, -1, 6]		2.9 Echo Rise 3
+[p4, 30, -1, 6]		3.0 Echo Rise 4
+[p4, 31, -1, 6]		3.1 Rvb Eko Rise
+[p4, 32, -1, 6]		3.2 EQ’d Eko LP (T)
+[p4, 33, -1, 6]		3.3 EQ’d Eko HP (T)
+[p4, 34, -1, 6]		3.4 EQ’d EkoEnv1 (T)
+[p4, 35, -1, 6]		3.5 EQ’d EkoEnv2 (T)
+[p4, 36, -1, 6]		3.6 EQ’d EkoEnv3 (T)
+[p4, 37, -1, 6]		3.7 StereoTapEko (T)
+[p4, 38, -1, 6]		3.8 Flange>Rvb (T)
+[p4, 39, -1, 6]		3.9 Rvb>Flange (T)
+[p4, 40, -1, 6]		4.0 LFO Flange (T)
+[p4, 41, -1, 6]		4.1 Tape Flange1
+[p4, 42, -1, 6]		4.2 Tape Flange2
+[p4, 43, -1, 6]		4.3 Rvb>T Flange
+[p4, 44, -1, 6]		4.4 T Flange>Eko (T)
+[p4, 45, -1, 6]		4.5 VS EkoFlange
+[p4, 46, -1, 6]		4.6 Aerosol:Wet (T)
+[p4, 47, -1, 6]		4.7 Aerosol:Dry (T)
+[p4, 48, -1, 6]		4.8 Aerosol:Mix (T)
+[p4, 49, -1, 6]		4.9 Phat Detune
+		
+[g2]		Program Bank X2
+		
+[g3]		Stereo
+[p4, 0, -1, 7]		0.0 4PoleEQ LP
+[p4, 1, -1, 7]		0.1 4PoleEQ HP
+[p4, 2, -1, 7]		0.2 4PoleEQ BP
+[p4, 3, -1, 7]		0.3 4PoleKnobWah
+[p4, 4, -1, 7]		0.4 4PoleLFOWah (T)
+[p4, 5, -1, 7]		0.5 Weird!
+[p4, 6, -1, 7]		0.6 Weirder!
+[p4, 7, -1, 7]		0.7 Weirdest!
+[p4, 8, -1, 7]		0.8 Phased Fbk (T)
+[p4, 9, -1, 7]		0.9 KnobFlange 1
+[p4, 10, -1, 7]		1.0 KnobFlange 2 (T)
+[p4, 11, -1, 7]		1.1 KnobFlange 3 (T)
+[p4, 12, -1, 7]		1.2 Envelo Hall (T)
+[p4, 13, -1, 7]		1.3 Flange>Ghost
+[p4, 14, -1, 7]		1.4 Ghost>Flange
+[p4, 15, -1, 7]		1.5 Bass Tone (T)
+[p4, 16, -1, 7]		1.6 Gate>Gate (T)
+[p4, 17, -1, 7]		1.7 Gate on 1 & 3 (T)
+[p4, 18, -1, 7]		1.8 Symphonic
+[p4, 19, -1, 7]		1.9 Spin Cycle
+[p4, 20, -1, 7]		2.0 Dino Steps (T)
+[p4, 21, -1, 7]		2.1 Hoo-Ha
+[p4, 22, -1, 7]		2.2 GrossEnctrs (T)
+[p4, 23, -1, 7]		2.3 Notches-Chmb
+[p4, 24, -1, 7]		2.4 Multi FX (T)
+[p4, 25, -1, 7]		2.5 FrameDly 24
+[p4, 26, -1, 7]		2.6 FrameDly 25
+[p4, 27, -1, 7]		2.7 FrameDly 30
+[p4, 28, -1, 7]		2.8 MikedChamb 1
+[p4, 29, -1, 7]		2.9 MikedChamb 2
+		
+[g3]		Mono In/Stereo Out 
+[p4, 30, -1, 7]		3.0 Phone > Room
+[p4, 31, -1, 7]		3.1 Mono>Perc>BP
+[p4, 32, -1, 7]		3.2 Mono>Snr>LP
+[p4, 33, -1, 7]		3.3 Mono>Snr>HP
+[p4, 34, -1, 7]		3.4 Mono>Drum>LP
+[p4, 35, -1, 7]		3.5 Mono>Drum>HP
+[p4, 36, -1, 7]		3.6 Mono>Drum>BP
+[p4, 37, -1, 7]		3.7 Mono>Kick>LP
+[p4, 38, -1, 7]		3.8 Mix>Kick>HP
+[p4, 39, -1, 7]		3.9 Mono>Gate>LP
+[p4, 40, -1, 7]		4.0 Mono>Gate>BP
+[p4, 41, -1, 7]		4.1 Mono>Tunnel
+[p4, 42, -1, 7]		4.2 Mono>CarPark
+[p4, 43, -1, 7]		4.3 Mono>Amb1>LP
+[p4, 44, -1, 7]		4.4 Mono>Amb1>HP
+[p4, 45, -1, 7]		4.5 Mono>Amb1>BP
+[p4, 46, -1, 7]		4.6 Mono>Amb2>LP
+[p4, 47, -1, 7]		4.7 Mono>Amb2>HP
+[p4, 48, -1, 7]		4.8 Mono>Amb3>LP
+[p4, 49, -1, 7]		4.9 Mono>Amb3>HP
+		
+[g2]		Program Bank X3
+		
+[g3]		Dual Mono In/Stereo Out
+[p4, 0, -1, 8]		0.0 Trance (T)
+[p4, 1, -1, 8]		0.1 DualTapGate1 (T)
+[p4, 2, -1, 8]		0.2 DualTapGate2 (T)
+[p4, 3, -1, 8]		0.3 X-Eko + Rvb1 (T)
+[p4, 4, -1, 8]		0.4 DuckEko+ Rvb1 (T)
+[p4, 5, -1, 8]		0.5 Bounce+ Rvb1 (T)
+[p4, 6, -1, 8]		0.6 Bounce+ Rvb2 (T)
+[p4, 7, -1, 8]		0.7 Bounce+ Rvb3 (T)
+[p4, 8, -1, 8]		0.8 Bounce+ Eko1 (T)
+[p4, 9, -1, 8]		0.9 Bounce+ Eko2 (T)
+[p4, 10, -1, 8]		1.0 Bounce+ Eko3 (T)
+[p4, 11, -1, 8]		1.1 Bounce+ Eko4 (T)
+[p4, 12, -1, 8]		1.2 Bounce+ Eko5 (T)
+[p4, 13, -1, 8]		1.3 Tap Eko+Echo (T)
+[p4, 14, -1, 8]		1.4 PhoneInRoom
+[p4, 15, -1, 8]		1.5 TV In Room
+[p4, 16, -1, 8]		1.6 Phone<>Room
+[p4, 17, -1, 8]		1.7 Flange+Ghost
+[p4, 18, -1, 8]		1.8 S Flange + Rvb
+[p4, 19, -1, 8]		1.9 Flange+Plt
+[p4, 20, -1, 8]		2.0 AutoPan+Chmb (T)
+[p4, 21, -1, 8]		2.1 Slap + Kick (T)
+[p4, 22, -1, 8]		2.2 Chorus+Chmb
+[p4, 23, -1, 8]		2.3 LoPass+Chmb
+[p4, 24, -1, 8]		2.4 HiPass+Chmb
+[p4, 25, -1, 8]		2.5 B.Pass+Chmb
+[p4, 26, -1, 8]		2.6 B.Pass+Hall
+[p4, 27, -1, 8]		2.7 Tremolo+Chmb (T)
+[p4, 28, -1, 8]		2.8 Tremolo+Plt (T)
+[p4, 29, -1, 8]		2.9 Tremolo+Hall (T)
+		
+[g3]		Dual Mono In/Mono Out 
+[p4, 30, -1, 8]		3.0 L dks R Lvl
+[p4, 31, -1, 8]		3.1 L dks R Eq
+[p4, 32, -1, 8]		3.2 L dks R HiFc
+[p4, 33, -1, 8]		3.3 L dks R LoFc
+[p4, 34, -1, 8]		3.4 L dks R Band
+[p4, 35, -1, 8]		3.5 Slap / Kick (T)
+[p4, 36, -1, 8]		3.6 Phone X-Fade
+[p4, 37, -1, 8]		3.7 ToneL/PlateR (T)
+[p4, 38, -1, 8]		3.8 Phone / Room
+[p4, 39, -1, 8]		3.9 TV / Room
+[p4, 40, -1, 8]		4.0 Organ/Room 1
+[p4, 41, -1, 8]		4.1 Organ/Room 2
+[p4, 42, -1, 8]		4.2 M Flange/Rvb
+[p4, 43, -1, 8]		4.3 TapEko/Gate (T)
+[p4, 44, -1, 8]		4.4 Eko15/Plate
+[p4, 45, -1, 8]		4.5 V Eko1/ Rvb
+[p4, 46, -1, 8]		4.6 V Eko2/Rvb
+[p4, 47, -1, 8]		4.7 V Eko / Eko (T)
+[p4, 48, -1, 8]		4.8 EkoRise/Rvb
+[p4, 49, -1, 8]		4.9 EkoRise/Eko
+		
+[g2]		Program Bank X4
+		
+[g3]		Clean State Presets
+[p4, 0, -1, 9]		0.0 NewBand-Chmb 
+[p4, 1, -1, 9]		0.1 NewBand-Plt 
+[p4, 2, -1, 9]		0.2 NewBand-Hall 
+[p4, 3, -1, 9]		0.3 NewBand-Inf 
+[p4, 4, -1, 9]		0.4 NewBand-Inv 
+[p4, 5, -1, 9]		0.5 New Gld-Chmb 
+[p4, 6, -1, 9]		0.6 New Gld-Plt 
+[p4, 7, -1, 9]		0.7 New Gld-Hall 
+[p4, 8, -1, 9]		0.8 New Gld-Inf 
+[p4, 9, -1, 9]		0.9 New Gld-Inv 
+[p4, 10, -1, 9]		1.0 NewChrs-Chmb 
+[p4, 11, -1, 9]		1.1 NewChrs-Plt 
+[p4, 12, -1, 9]		1.2 NewChrs-Hall 
+[p4, 13, -1, 9]		1.3 NewChrs-Inf 
+[p4, 14, -1, 9]		1.4 NewChrs-Inv 
+[p4, 15, -1, 9]		1.5 NewRes1-Chmb 
+[p4, 16, -1, 9]		1.6 NewRes1-Plt 
+[p4, 17, -1, 9]		1.7 NewRes1-Hall 
+[p4, 18, -1, 9]		1.8 NewRes1-Inf 
+[p4, 19, -1, 9]		1.9 NewRes1-Inv 
+[p4, 20, -1, 9]		2.0 NewRes2-Chmb 
+[p4, 21, -1, 9]		2.1 NewRes2-Plt 
+[p4, 22, -1, 9]		2.2 NewRes2-Hall 
+[p4, 23, -1, 9]		2.3 NewRes2-Inf 
+[p4, 24, -1, 9]		2.4 NewRes2-Inv 
+		
+[g3]		Dual Mono In/Mono Out 
+[p4, 25, -1, 9]		2.5 TapeEcho/Plt (T)
+[p4, 26, -1, 9]		2.6 TapeEko/Chmb (T)
+[p4, 27, -1, 9]		2.7 TapeEko/Hall (T)
+[p4, 28, -1, 9]		2.8 Chorus/Chmb
+[p4, 29, -1, 9]		2.9 Chorus/Plt
+[p4, 30, -1, 9]		3.0 Chorus/Hall
+[p4, 31, -1, 9]		3.1 Flange/Chmb
+[p4, 32, -1, 9]		3.2 Flange/Plt
+[p4, 33, -1, 9]		3.3 Flange/Hall
+[p4, 34, -1, 9]		3.4 TapEko/Echo (T)
+[p4, 35, -1, 9]		3.5 LoPass/Chmb
+[p4, 36, -1, 9]		3.6 LoPass/Plate
+[p4, 37, -1, 9]		3.7 LoPass/Hall
+[p4, 38, -1, 9]		3.8 HiPass/Chmb
+[p4, 39, -1, 9]		3.9 HiPass/Plate
+[p4, 40, -1, 9]		4.0 HiPass/Hall
+[p4, 41, -1, 9]		4.1 B.Pass/Chmb
+[p4, 42, -1, 9]		4.2 B.Pass/Plate
+[p4, 43, -1, 9]		4.3 B.Pass/Hall
+[p4, 44, -1, 9]		4.4 Rotary/Chmb
+[p4, 45, -1, 9]		4.5 Rotary/Plate
+[p4, 46, -1, 9]		4.6 Rotary/Hall
+[p4, 47, -1, 9]		4.7 Tremolo/Chmb (T)
+[p4, 48, -1, 9]		4.8 Tremolo/Plt (T)
+[p4, 49, -1, 9]		4.9 Tremolo/Hall (T)
+
+[end]
+
